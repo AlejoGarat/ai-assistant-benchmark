@@ -9,8 +9,8 @@ import './newsletter.css';
 export const metadata: Metadata = {
   title: 'The AI Assistant Newsletter',
   description: 'New agents, real-world tests, and the changes worth your attention. Read the Assistant Benchmark newsletter and explore every issue.',
-  openGraph: { title: 'The AI Assistant Newsletter', images: [{ url: '/newsletter/default.png', width: 1200, height: 630 }] },
-  twitter: { card: 'summary_large_image', images: ['/newsletter/default.png'] },
+  openGraph: { title: 'The AI Assistant Newsletter', images: [{ url: '/newsletter/last-week-share.png', width: 1536, height: 1024, alt: 'Last Week in AI Agents — Assistant Benchmark' }] },
+  twitter: { card: 'summary_large_image', images: [{ url: '/newsletter/last-week-share.png', alt: 'Last Week in AI Agents — Assistant Benchmark' }] },
 };
 
 export default function NewsletterPage() {
