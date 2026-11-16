@@ -188,5 +188,14 @@
     "outcome": "pass",
     "notes": "Weekday 7am briefing fired on time both mornings with the calendar and owed replies; the weather followed about an hour later each day.",
     "evidence_url": "/agents/poke/evidence/poke-2026-09-11-dd210c"
+  },
+  {
+    "id": "poke-2026-11-16-280ff6",
+    "category": "purchasing",
+    "protocol": "observed",
+    "date": "2026-11-16",
+    "score": 1,
+    "outcome": "fail",
+    "notes": "Declined the flowers order outright: purchases are not available on its plan and are routed to a human on a higher tier."
   }
 ]
