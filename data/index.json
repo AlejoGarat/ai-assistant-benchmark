@@ -1540,8 +1540,7 @@
         "regions": "Latin America and Europe",
         "channels": [
           "iOS app",
-          "Android app",
-          "WhatsApp"
+          "Android app"
         ],
         "checked": "2026-09-09"
       }
