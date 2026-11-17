@@ -20,7 +20,9 @@
     "channels": [
       "Web app",
       "iOS app",
-      "Android app"
+      "Android app",
+      "Mac app",
+      "Apple Watch app"
     ],
     "checked": "2026-09-15"
   }
